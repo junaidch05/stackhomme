@@ -60,14 +60,7 @@ export default function Footer() {
               6 Happ street, Aurban. NSW, Australia
             </Link>
           </p>
-          <p>
-            <span>
-            <FontAwesomeIcon icon={faBuilding} />
-            </span>
-            <Link href="/" aria-disabled="true" className="mail mail2">
-              6 Happ street, Aurban. NSW, Australia
-            </Link>
-          </p>
+      
         </div>
         
       </div>
